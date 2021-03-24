@@ -43,12 +43,12 @@ GNU General Public License V3
 * kiaranoise22 Get used to it
 * kiaranoise23 Oh
 * kiaranoise24 Eh no
-* kiaranoise25
-* kiaranoise26
-* kiaranoise27
-* kiaranoise28
-* kiaranoise29
-* kiaranoise30
+* kiaranoise25 Am sheep
+* kiaranoise26 Danke Schön
+* kiaranoise27 Auf Wiedersehen
+* kiaranoise28 Tuturu
+* kiaranoise29 Bye bye
+* kiaranoise30 Otsu
 * kiaranoise31
 * kiaranoise32
 * kiaranoise33
