@@ -19,22 +19,22 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.kiaranoi
 GNU General Public License V3
 
 # List of Noises
-* kiaranoise1
-* kiaranoise2
-* kiaranoise3
-* kiaranoise4
-* kiaranoise5
-* kiaranoise6
-* kiaranoise7
-* kiaranoise8
-* kiaranoise9
-* kiaranoise10
-* kiaranoise11
-* kiaranoise12
-* kiaranoise13
-* kiaranoise14
-* kiaranoise15
-* kiaranoise16
+* kiaranoise1  EAT ME!
+* kiaranoise2  Muah
+* kiaranoise3  I offer my body to you
+* kiaranoise4  I sleep next to you
+* kiaranoise5  *Kiara's real voice*
+* kiaranoise6  *POGCHAMP*
+* kiaranoise7  *VERY LOUD NOISE*
+* kiaranoise8  Kikkeriki
+* kiaranoise9  *Signature Laugh*
+* kiaranoise10 am Frog
+* kiaranoise11 am Crow
+* kiaranoise12 *Kiara loves us all*
+* kiaranoise13 We grilled it
+* kiaranoise14 Oishikatta
+* kiaranoise15 *Kiara having an o*rgasm*
+* kiaranoise16 You & Me
 * kiaranoise17
 * kiaranoise18
 * kiaranoise19
