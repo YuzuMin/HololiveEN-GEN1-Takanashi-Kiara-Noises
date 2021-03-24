@@ -66,6 +66,6 @@ GNU General Public License V3
 * kiaranoise45
 * kiaranoise46
 * kiaranoise47
-* kiaranoise48 
-* kiaranoise49 Kiara alarm
+* kiaranoise48 You're fired
+* kiaranoise49 *Kiara alarm*
 * kiaranoise50 I'm your new mommy now
