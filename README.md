@@ -61,11 +61,11 @@ GNU General Public License V3
 * kiaranoise40 ich liebe dich
 * kiaranoise41 Pi pi pi ... Pi
 * kiaranoise42 Te amo
-* kiaranoise43
-* kiaranoise44
-* kiaranoise45
-* kiaranoise46
-* kiaranoise47
+* kiaranoise43 Je t'aime 
+* kiaranoise44 Wo ai ni
+* kiaranoise45 I will kill them
+* kiaranoise46 I will kill you
+* kiaranoise47 STOP! STOP!
 * kiaranoise48 You're fired
 * kiaranoise49 *Kiara alarm*
 * kiaranoise50 I'm your new mommy now
