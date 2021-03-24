@@ -35,11 +35,11 @@ GNU General Public License V3
 * kiaranoise14 Oishikatta
 * kiaranoise15 *Kiara having an o*rgasm*
 * kiaranoise16 You & Me
-* kiaranoise17
-* kiaranoise18
-* kiaranoise19
-* kiaranoise20
-* kiaranoise21
+* kiaranoise17 Ok mama
+* kiaranoise18 Goodnight my wife 
+* kiaranoise19 A
+* kiaranoise20 I got that from Amelia
+* kiaranoise21 Eh
 * kiaranoise22
 * kiaranoise23
 * kiaranoise24
