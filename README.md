@@ -49,13 +49,13 @@ GNU General Public License V3
 * kiaranoise28 Tuturu
 * kiaranoise29 Bye bye
 * kiaranoise30 Otsu
-* kiaranoise31
-* kiaranoise32
-* kiaranoise33
-* kiaranoise34
-* kiaranoise35
-* kiaranoise36
-* kiaranoise37
+* kiaranoise31 AAAAAAA (frustrated)
+* kiaranoise32 *Kiara swears*
+* kiaranoise33 NOOOOOO (frustrated)
+* kiaranoise34 Karen Kiara
+* kiaranoise35 Leava me alone
+* kiaranoise36 Leava me alone (explicit)
+* kiaranoise37 Leava me alone (very explicit)
 * kiaranoise38
 * kiaranoise39
 * kiaranoise40
