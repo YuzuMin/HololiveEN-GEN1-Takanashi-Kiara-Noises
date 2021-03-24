@@ -56,11 +56,11 @@ GNU General Public License V3
 * kiaranoise35 Leava me alone
 * kiaranoise36 Leava me alone (explicit)
 * kiaranoise37 Leava me alone (very explicit)
-* kiaranoise38
-* kiaranoise39
-* kiaranoise40
-* kiaranoise41
-* kiaranoise42
+* kiaranoise38 I love you
+* kiaranoise39 Aishiteru
+* kiaranoise40 ich liebe dich
+* kiaranoise41 Pi pi pi ... Pi
+* kiaranoise42 Te amo
 * kiaranoise43
 * kiaranoise44
 * kiaranoise45
@@ -68,4 +68,4 @@ GNU General Public License V3
 * kiaranoise47
 * kiaranoise48
 * kiaranoise49
-* kiaranoise50
+* kiaranoise50 I'm your new mommy now
