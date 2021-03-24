@@ -40,9 +40,9 @@ GNU General Public License V3
 * kiaranoise19 A
 * kiaranoise20 I got that from Amelia
 * kiaranoise21 Eh
-* kiaranoise22
-* kiaranoise23
-* kiaranoise24
+* kiaranoise22 Get used to it
+* kiaranoise23 Oh
+* kiaranoise24 Eh no
 * kiaranoise25
 * kiaranoise26
 * kiaranoise27
