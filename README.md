@@ -49,23 +49,23 @@ GNU General Public License V3
 * kiaranoise28 Tuturu
 * kiaranoise29 Bye bye
 * kiaranoise30 Otsu
-* kiaranoise31
-* kiaranoise32
-* kiaranoise33
-* kiaranoise34
-* kiaranoise35
-* kiaranoise36
-* kiaranoise37
-* kiaranoise38
-* kiaranoise39
-* kiaranoise40
-* kiaranoise41
-* kiaranoise42
-* kiaranoise43
-* kiaranoise44
-* kiaranoise45
-* kiaranoise46
-* kiaranoise47
-* kiaranoise48
-* kiaranoise49
-* kiaranoise50
+* kiaranoise31 AAAAAAA (frustrated)
+* kiaranoise32 *Kiara swears*
+* kiaranoise33 NOOOOOO (frustrated)
+* kiaranoise34 Karen Kiara
+* kiaranoise35 Leava me alone
+* kiaranoise36 Leava me alone (explicit)
+* kiaranoise37 Leava me alone (very explicit)
+* kiaranoise38 I love you
+* kiaranoise39 Aishiteru
+* kiaranoise40 ich liebe dich
+* kiaranoise41 Pi pi pi ... Pi
+* kiaranoise42 Te amo
+* kiaranoise43 Je t'aime 
+* kiaranoise44 Wo ai ni
+* kiaranoise45 I will kill them
+* kiaranoise46 I will kill you
+* kiaranoise47 STOP! STOP!
+* kiaranoise48 You're fired
+* kiaranoise49 *Kiara alarm*
+* kiaranoise50 I'm your new mommy now
