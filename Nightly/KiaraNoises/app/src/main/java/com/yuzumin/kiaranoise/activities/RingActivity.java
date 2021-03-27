@@ -42,15 +42,28 @@ public class RingActivity extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                image.setImageResource(R.drawable.calliope0);
+                image.setImageResource(R.drawable.kiara0);
                 break;
             case 1:
-                image.setImageResource(R.drawable.calliope1);
+                image.setImageResource(R.drawable.kiara1);
+                break;
+            case 2:
+                image.setImageResource(R.drawable.kiara2);
+                break;
+            case 3:
+                image.setImageResource(R.drawable.kiara3);
+                break;
+            case 4:
+                image.setImageResource(R.drawable.kiara4);
+                break;
+            case 5:
+                image.setImageResource(R.drawable.kiara5);
                 break;
             default:
-                image.setImageResource(R.drawable.calliope2);
+                image.setImageResource(R.drawable.kiara6);
                 break;
         }
+
 
         dismiss.setOnClickListener(new View.OnClickListener() {
             @Override
