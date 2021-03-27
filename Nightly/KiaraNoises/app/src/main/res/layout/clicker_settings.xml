@@ -174,54 +174,126 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content">
                                     <TableRow
-                                        android:id="@+id/calliope0_img_row">
+                                        android:id="@+id/kiara0_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/calliope0"
+                                            android:src="@drawable/kiara0"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/calliope0_img"
+                                            android:id="@+id/kiara0_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Calliope 0"
+                                            android:text="kiara 0"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/calliope1_img_row">
+                                        android:id="@+id/kiara1_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/calliope1"
+                                            android:src="@drawable/kiara1"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/calliope1_img"
+                                            android:id="@+id/kiara1_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Calliope 1"
+                                            android:text="kiara 1"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/calliope2_img_row">
+                                        android:id="@+id/kiara2_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/calliope2"
+                                            android:src="@drawable/kiara2"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/calliope2_img"
+                                            android:id="@+id/kiara2_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Calliope 2"
+                                            android:text="kiara 2"
+                                            android:textColor="@color/colorAccent"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"/>
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/kiara3_img_row">
+                                        <ImageView
+                                            android:padding="10dp"
+                                            android:src="@drawable/kiara3"
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"/>
+                                        <RadioButton
+                                            android:id="@+id/kiara3_img"
+                                            android:layout_gravity="center_vertical"
+                                            android:textSize="17dp"
+                                            android:buttonTint="@color/colorAccent"
+                                            android:text="kiara 3"
+                                            android:textColor="@color/colorAccent"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"/>
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/kiara4_img_row">
+                                        <ImageView
+                                            android:padding="10dp"
+                                            android:src="@drawable/kiara4"
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"/>
+                                        <RadioButton
+                                            android:id="@+id/kiara4_img"
+                                            android:layout_gravity="center_vertical"
+                                            android:textSize="17dp"
+                                            android:buttonTint="@color/colorAccent"
+                                            android:text="kiara 4"
+                                            android:textColor="@color/colorAccent"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"/>
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/kiara5_img_row">
+                                        <ImageView
+                                            android:padding="10dp"
+                                            android:src="@drawable/kiara5"
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"/>
+                                        <RadioButton
+                                            android:id="@+id/kiara5_img"
+                                            android:layout_gravity="center_vertical"
+                                            android:textSize="17dp"
+                                            android:buttonTint="@color/colorAccent"
+                                            android:text="kiara 5"
+                                            android:textColor="@color/colorAccent"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"/>
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/kiara6_img_row">
+                                        <ImageView
+                                            android:padding="10dp"
+                                            android:src="@drawable/kiara6"
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"/>
+                                        <RadioButton
+                                            android:id="@+id/kiara6_img"
+                                            android:layout_gravity="center_vertical"
+                                            android:textSize="17dp"
+                                            android:buttonTint="@color/colorAccent"
+                                            android:text="kiara 6"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
