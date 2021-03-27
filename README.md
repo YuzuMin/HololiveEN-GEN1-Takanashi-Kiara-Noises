@@ -69,3 +69,11 @@ GNU General Public License V3
 * kiaranoise48 You're fired
 * kiaranoise49 *Kiara alarm*
 * kiaranoise50 I'm your new mommy now
+* kiaranoise51 Would you like to suck my nose
+* kiaranoise52 Ti amo
+* kiaranoise53 Saranghaeyo
+* kiaranoise54 YA lyublyu tebya
+* kiaranoise55 Se agapó
+* kiaranoise56 Mahal kita
+* kiaranoise57 Ik hou van je
+* kiaranoise58 Você amo
