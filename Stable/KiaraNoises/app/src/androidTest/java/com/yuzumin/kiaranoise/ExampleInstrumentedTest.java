@@ -21,6 +21,7 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.yuzumin.kiaranoise", appContext.getPackageName());
+
+        assertEquals("com.learntodroid.simplealarmclock", appContext.getPackageName());
     }
 }
