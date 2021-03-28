@@ -13,8 +13,8 @@
     <string name="noise7_text">*VERY LOUD NOISE*</string>
     <string name="noise8_text">Kikkeriki</string>
     <string name="noise9_text">*Signature Laugh*</string>
-    <string name="noise10_text">am Frog</string>
-    <string name="noise11_text">am Crow</string>
+    <string name="noise10_text">Am Frog</string>
+    <string name="noise11_text">Am Crow</string>
     <string name="noise12_text">*Kiara loves us all*</string>
     <string name="noise13_text">We grilled it</string>
     <string name="noise14_text">Oishikatta</string>
@@ -23,7 +23,7 @@
     <string name="noise17_text">Ok mama</string>
     <string name="noise18_text">Goodnight my wife </string>
     <string name="noise19_text">A</string>
-    <string name="noise20_text">I got that from Amelia</string>
+    <string name="noise20_text">Would you like to suck my nose</string>
     <string name="noise21_text">Eh</string>
     <string name="noise22_text">Get used to it</string>
     <string name="noise23_text">Oh</string>
@@ -37,7 +37,7 @@
     <string name="noise31_text">AAAAAAA (frustrated)</string>
     <string name="noise32_text">*Kiara swears*</string>
     <string name="noise33_text">NOOOOOO (frustrated)</string>
-    <string name="noise34_text">Karen Kiara</string>
+    <string name="noise34_text">*Karen Kiara*</string>
     <string name="noise35_text">Leava me alone</string>
     <string name="noise36_text">Leava me alone (explicit)</string>
     <string name="noise37_text">Leava me alone (very explicit)</string>
@@ -48,10 +48,16 @@
     <string name="noise42_text">Te amo</string>
     <string name="noise43_text">Je t\'aime </string>
     <string name="noise44_text">Wo ai ni</string>
-    <string name="noise45_text">I will kill them</string>
+    <string name="noise45_text">Ti amo</string>
     <string name="noise46_text">I will kill you</string>
     <string name="noise47_text">STOP! STOP!</string>
     <string name="noise48_text">You\'re fired</string>
     <string name="noise49_text">*Kiara alarm*</string>
     <string name="noise50_text">I\'m your new mommy now</string>
+    <string name="noise51_text">Ik hou van je</string>
+    <string name="noise52_text">Você amo</string>
+    <string name="noise53_text">Saranghaeyo</string>
+    <string name="noise54_text">YA lyublyu tebya</string>
+    <string name="noise55_text">Se agapó</string>
+    <string name="noise56_text">Mahal kita</string>
 </resources>
