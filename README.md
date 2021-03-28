@@ -28,8 +28,8 @@ GNU General Public License V3
 * kiaranoise7  *VERY LOUD NOISE*
 * kiaranoise8  Kikkeriki
 * kiaranoise9  *Signature Laugh*
-* kiaranoise10 am Frog
-* kiaranoise11 am Crow
+* kiaranoise10 Am Frog
+* kiaranoise11 Am Crow
 * kiaranoise12 *Kiara loves us all*
 * kiaranoise13 We grilled it
 * kiaranoise14 Oishikatta
@@ -38,7 +38,7 @@ GNU General Public License V3
 * kiaranoise17 Ok mama
 * kiaranoise18 Goodnight my wife 
 * kiaranoise19 A
-* kiaranoise20 I got that from Amelia
+* kiaranoise20 Would you like to suck my nose
 * kiaranoise21 Eh
 * kiaranoise22 Get used to it
 * kiaranoise23 Oh
@@ -52,7 +52,7 @@ GNU General Public License V3
 * kiaranoise31 AAAAAAA (frustrated)
 * kiaranoise32 *Kiara swears*
 * kiaranoise33 NOOOOOO (frustrated)
-* kiaranoise34 Karen Kiara
+* kiaranoise34 *Karen Kiara*
 * kiaranoise35 Leava me alone
 * kiaranoise36 Leava me alone (explicit)
 * kiaranoise37 Leava me alone (very explicit)
@@ -63,17 +63,15 @@ GNU General Public License V3
 * kiaranoise42 Te amo
 * kiaranoise43 Je t'aime 
 * kiaranoise44 Wo ai ni
-* kiaranoise45 I will kill them
+* kiaranoise45 Ti amo
 * kiaranoise46 I will kill you
 * kiaranoise47 STOP! STOP!
 * kiaranoise48 You're fired
 * kiaranoise49 *Kiara alarm*
 * kiaranoise50 I'm your new mommy now
-* kiaranoise51 Would you like to suck my nose
-* kiaranoise52 Ti amo
+* kiaranoise51 Ik hou van je
+* kiaranoise52 Você amo
 * kiaranoise53 Saranghaeyo
 * kiaranoise54 YA lyublyu tebya
 * kiaranoise55 Se agapó
 * kiaranoise56 Mahal kita
-* kiaranoise57 Ik hou van je
-* kiaranoise58 Você amo
